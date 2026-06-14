@@ -2,6 +2,13 @@
 
 This repository contains the source code, data, and configuration files for the Click&Go Carpooling platform.
 
+This project was developed as the final exam for the **Large Scale and Multi-Model Data Bases (LSMSDB)** course.
+
+**Authors:**
+* [Samuel Scarabelli](https://github.com/Snasmuel)
+* [Francesco Rossi Paccani](https://github.com/FrancescoRossiPaccani)
+* [Slim Jabou](https://github.com/jabjub)
+
 ## Repository Structure
 
 * **lsmsdb-project/**: Contains the entire Java Spring Boot source code, including the `pom.xml` file.
@@ -40,11 +47,3 @@ java -jar lsmsdb-project/target/lsmsdb-project-0.0.1-SNAPSHOT.jar
 
 ## Note on Deployment Testing
 When the application starts via the deployment command above, an automatic end-to-end test script is executed. Unlike the initialization script, this test sequence does not clear the database, preserving the existing state.
-
-This project was developed as the final exam for the **Large Scale and Multi-Model Data Bases (LSMSDB)** course.
-
-**Authors:**
-* [Samuel Scarabelli](https://github.com/Snasmuel)
-* [Francesco Rossi Paccani](https://github.com/FrancescoRossiPaccani)
-* [Slim Jabou](https://github.com/jabjub)
-
