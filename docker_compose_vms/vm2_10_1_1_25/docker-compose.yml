@@ -1,0 +1,25 @@
+version: '3.3'
+
+services:
+  # --- MONGODB (Secondary A) ---
+  mongo2:
+    image: mongo:7.0
+    container_name: mongo2
+    network_mode: host
+    command: ["--replSet", "rs0", "--bind_ip_all", "--port", "27017"]
+    volumes:
+      - mongo2_data:/data/db
+
+  # --- REDIS (Replica A) ---
+  redis-replica-1:
+    image: redis:7.2
+    container_name: redis-replica-1
+    network_mode: host
+    command: ["redis-server", "--bind", "0.0.0.0", "--port", "6379", "--replicaof", "10.1.1.39", "6379"]
+    volumes:
+      - redis_replica1_data:/data
+
+volumes:
+  mongo2_data:
+  redis_replica1_data:
+

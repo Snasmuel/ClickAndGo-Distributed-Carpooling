@@ -1,0 +1,37 @@
+version: '3.3'
+
+services:
+  # --- MONGODB (Primary) ---
+  mongo1:
+    image: mongo:7.0
+    container_name: mongo1
+    network_mode: host  # Usa l'IP 10.1.1.39
+    command: ["--replSet", "rs0", "--bind_ip_all", "--port", "27017"]
+    volumes:
+      - mongo1_data:/data/db
+
+  # --- REDIS (Master) ---
+  redis-master:
+    image: redis:7.2
+    container_name: redis-master
+    network_mode: host
+    command: ["redis-server", "--bind", "0.0.0.0", "--port", "6379", "--appendonly", "yes"]
+    volumes:
+      - redis_master_data:/data
+
+  # --- NEO4J ---
+  neo4j:
+    image: neo4j:5.15.0
+    container_name: neo4j
+    network_mode: host
+    environment:
+      - NEO4J_AUTH=none
+      - NEO4J_server_default__listen__address=0.0.0.0
+    volumes:
+      - neo4j_data:/data
+
+volumes:
+  mongo1_data:
+  redis_master_data:
+  neo4j_data:
+

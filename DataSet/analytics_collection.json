@@ -1,0 +1,4878 @@
+[
+  {
+    "_id": "2025-07-28",
+    "user_metrics": {
+      "total_users": 10518,
+      "new_users_today": 29,
+      "active_drivers_today": 73
+    },
+    "booking_metrics": {
+      "total_bookings_created": 243,
+      "rides_completed": 87,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 3134.68,
+      "platform_revenue": 470.2,
+      "avg_payment_per_ride": 36.03
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 13.1,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2025-07-29",
+    "user_metrics": {
+      "total_users": 10543,
+      "new_users_today": 22,
+      "active_drivers_today": 176
+    },
+    "booking_metrics": {
+      "total_bookings_created": 582,
+      "rides_completed": 208,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7394.7,
+      "platform_revenue": 1109.2,
+      "avg_payment_per_ride": 35.55
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 14.1,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2025-07-30",
+    "user_metrics": {
+      "total_users": 10574,
+      "new_users_today": 24,
+      "active_drivers_today": 176
+    },
+    "booking_metrics": {
+      "total_bookings_created": 582,
+      "rides_completed": 208,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4585.51,
+      "platform_revenue": 687.83,
+      "avg_payment_per_ride": 22.05
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 13.2,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2025-07-31",
+    "user_metrics": {
+      "total_users": 10600,
+      "new_users_today": 18,
+      "active_drivers_today": 150
+    },
+    "booking_metrics": {
+      "total_bookings_created": 495,
+      "rides_completed": 177,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 3819.88,
+      "platform_revenue": 572.98,
+      "avg_payment_per_ride": 21.58
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 14.4,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2025-08-01",
+    "user_metrics": {
+      "total_users": 10639,
+      "new_users_today": 39,
+      "active_drivers_today": 189
+    },
+    "booking_metrics": {
+      "total_bookings_created": 624,
+      "rides_completed": 223,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6533.27,
+      "platform_revenue": 979.99,
+      "avg_payment_per_ride": 29.3
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 10.8,
+      "avg_negotiation_discount": "14%"
+    }
+  },
+  {
+    "_id": "2025-08-02",
+    "user_metrics": {
+      "total_users": 10667,
+      "new_users_today": 21,
+      "active_drivers_today": 187
+    },
+    "booking_metrics": {
+      "total_bookings_created": 616,
+      "rides_completed": 220,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5710.4,
+      "platform_revenue": 856.56,
+      "avg_payment_per_ride": 25.96
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 18.5,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2025-08-03",
+    "user_metrics": {
+      "total_users": 10691,
+      "new_users_today": 36,
+      "active_drivers_today": 182
+    },
+    "booking_metrics": {
+      "total_bookings_created": 602,
+      "rides_completed": 215,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4493.33,
+      "platform_revenue": 674.0,
+      "avg_payment_per_ride": 20.9
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 12.0,
+      "avg_negotiation_discount": "9%"
+    }
+  },
+  {
+    "_id": "2025-08-04",
+    "user_metrics": {
+      "total_users": 10720,
+      "new_users_today": 39,
+      "active_drivers_today": 187
+    },
+    "booking_metrics": {
+      "total_bookings_created": 618,
+      "rides_completed": 221,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6675.14,
+      "platform_revenue": 1001.27,
+      "avg_payment_per_ride": 30.2
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 20.8,
+      "avg_negotiation_discount": "6%"
+    }
+  },
+  {
+    "_id": "2025-08-05",
+    "user_metrics": {
+      "total_users": 10753,
+      "new_users_today": 20,
+      "active_drivers_today": 201
+    },
+    "booking_metrics": {
+      "total_bookings_created": 663,
+      "rides_completed": 237,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7732.62,
+      "platform_revenue": 1159.89,
+      "avg_payment_per_ride": 32.63
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 20.5,
+      "avg_negotiation_discount": "13%"
+    }
+  },
+  {
+    "_id": "2025-08-06",
+    "user_metrics": {
+      "total_users": 10791,
+      "new_users_today": 24,
+      "active_drivers_today": 183
+    },
+    "booking_metrics": {
+      "total_bookings_created": 604,
+      "rides_completed": 216,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5748.27,
+      "platform_revenue": 862.24,
+      "avg_payment_per_ride": 26.61
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 19.1,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2025-08-07",
+    "user_metrics": {
+      "total_users": 10815,
+      "new_users_today": 37,
+      "active_drivers_today": 187
+    },
+    "booking_metrics": {
+      "total_bookings_created": 618,
+      "rides_completed": 221,
+      "cancellation_rate": "5%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5609.65,
+      "platform_revenue": 841.45,
+      "avg_payment_per_ride": 25.38
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 12.8,
+      "avg_negotiation_discount": "15%"
+    }
+  },
+  {
+    "_id": "2025-08-08",
+    "user_metrics": {
+      "total_users": 10854,
+      "new_users_today": 30,
+      "active_drivers_today": 188
+    },
+    "booking_metrics": {
+      "total_bookings_created": 621,
+      "rides_completed": 222,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6022.83,
+      "platform_revenue": 903.42,
+      "avg_payment_per_ride": 27.13
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 15.3,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2025-08-09",
+    "user_metrics": {
+      "total_users": 10888,
+      "new_users_today": 36,
+      "active_drivers_today": 192
+    },
+    "booking_metrics": {
+      "total_bookings_created": 632,
+      "rides_completed": 226,
+      "cancellation_rate": "5%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8746.96,
+      "platform_revenue": 1312.04,
+      "avg_payment_per_ride": 38.7
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 17.5,
+      "avg_negotiation_discount": "10%"
+    }
+  },
+  {
+    "_id": "2025-08-10",
+    "user_metrics": {
+      "total_users": 10919,
+      "new_users_today": 18,
+      "active_drivers_today": 173
+    },
+    "booking_metrics": {
+      "total_bookings_created": 571,
+      "rides_completed": 204,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5690.04,
+      "platform_revenue": 853.51,
+      "avg_payment_per_ride": 27.89
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 21.2,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2025-08-11",
+    "user_metrics": {
+      "total_users": 10936,
+      "new_users_today": 34,
+      "active_drivers_today": 188
+    },
+    "booking_metrics": {
+      "total_bookings_created": 621,
+      "rides_completed": 222,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7591.86,
+      "platform_revenue": 1138.78,
+      "avg_payment_per_ride": 34.2
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 10.9,
+      "avg_negotiation_discount": "14%"
+    }
+  },
+  {
+    "_id": "2025-08-12",
+    "user_metrics": {
+      "total_users": 10970,
+      "new_users_today": 20,
+      "active_drivers_today": 190
+    },
+    "booking_metrics": {
+      "total_bookings_created": 627,
+      "rides_completed": 224,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6311.88,
+      "platform_revenue": 946.78,
+      "avg_payment_per_ride": 28.18
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 17.9,
+      "avg_negotiation_discount": "8%"
+    }
+  },
+  {
+    "_id": "2025-08-13",
+    "user_metrics": {
+      "total_users": 10992,
+      "new_users_today": 18,
+      "active_drivers_today": 185
+    },
+    "booking_metrics": {
+      "total_bookings_created": 610,
+      "rides_completed": 218,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6376.29,
+      "platform_revenue": 956.44,
+      "avg_payment_per_ride": 29.25
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 14.4,
+      "avg_negotiation_discount": "13%"
+    }
+  },
+  {
+    "_id": "2025-08-14",
+    "user_metrics": {
+      "total_users": 11022,
+      "new_users_today": 27,
+      "active_drivers_today": 179
+    },
+    "booking_metrics": {
+      "total_bookings_created": 590,
+      "rides_completed": 211,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6182.91,
+      "platform_revenue": 927.44,
+      "avg_payment_per_ride": 29.3
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 12.9,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2025-08-15",
+    "user_metrics": {
+      "total_users": 11040,
+      "new_users_today": 22,
+      "active_drivers_today": 184
+    },
+    "booking_metrics": {
+      "total_bookings_created": 607,
+      "rides_completed": 217,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5023.87,
+      "platform_revenue": 753.58,
+      "avg_payment_per_ride": 23.15
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 21.0,
+      "avg_negotiation_discount": "9%"
+    }
+  },
+  {
+    "_id": "2025-08-16",
+    "user_metrics": {
+      "total_users": 11063,
+      "new_users_today": 17,
+      "active_drivers_today": 188
+    },
+    "booking_metrics": {
+      "total_bookings_created": 621,
+      "rides_completed": 222,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8637.14,
+      "platform_revenue": 1295.57,
+      "avg_payment_per_ride": 38.91
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.4,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2025-08-17",
+    "user_metrics": {
+      "total_users": 11095,
+      "new_users_today": 20,
+      "active_drivers_today": 193
+    },
+    "booking_metrics": {
+      "total_bookings_created": 638,
+      "rides_completed": 228,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4555.39,
+      "platform_revenue": 683.31,
+      "avg_payment_per_ride": 19.98
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.5,
+      "avg_negotiation_discount": "14%"
+    }
+  },
+  {
+    "_id": "2025-08-18",
+    "user_metrics": {
+      "total_users": 11134,
+      "new_users_today": 39,
+      "active_drivers_today": 173
+    },
+    "booking_metrics": {
+      "total_bookings_created": 571,
+      "rides_completed": 204,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6032.06,
+      "platform_revenue": 904.81,
+      "avg_payment_per_ride": 29.57
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 20.8,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2025-08-19",
+    "user_metrics": {
+      "total_users": 11166,
+      "new_users_today": 26,
+      "active_drivers_today": 189
+    },
+    "booking_metrics": {
+      "total_bookings_created": 624,
+      "rides_completed": 223,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4736.24,
+      "platform_revenue": 710.44,
+      "avg_payment_per_ride": 21.24
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 14.5,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2025-08-20",
+    "user_metrics": {
+      "total_users": 11192,
+      "new_users_today": 33,
+      "active_drivers_today": 198
+    },
+    "booking_metrics": {
+      "total_bookings_created": 655,
+      "rides_completed": 234,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6570.75,
+      "platform_revenue": 985.61,
+      "avg_payment_per_ride": 28.08
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 12.8,
+      "avg_negotiation_discount": "8%"
+    }
+  },
+  {
+    "_id": "2025-08-21",
+    "user_metrics": {
+      "total_users": 11209,
+      "new_users_today": 34,
+      "active_drivers_today": 176
+    },
+    "booking_metrics": {
+      "total_bookings_created": 582,
+      "rides_completed": 208,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7027.17,
+      "platform_revenue": 1054.08,
+      "avg_payment_per_ride": 33.78
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.1,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2025-08-22",
+    "user_metrics": {
+      "total_users": 11234,
+      "new_users_today": 35,
+      "active_drivers_today": 172
+    },
+    "booking_metrics": {
+      "total_bookings_created": 568,
+      "rides_completed": 203,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4036.86,
+      "platform_revenue": 605.53,
+      "avg_payment_per_ride": 19.89
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 20.5,
+      "avg_negotiation_discount": "10%"
+    }
+  },
+  {
+    "_id": "2025-08-23",
+    "user_metrics": {
+      "total_users": 11265,
+      "new_users_today": 27,
+      "active_drivers_today": 151
+    },
+    "booking_metrics": {
+      "total_bookings_created": 498,
+      "rides_completed": 178,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4518.65,
+      "platform_revenue": 677.8,
+      "avg_payment_per_ride": 25.39
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 10.7,
+      "avg_negotiation_discount": "15%"
+    }
+  },
+  {
+    "_id": "2025-08-24",
+    "user_metrics": {
+      "total_users": 11304,
+      "new_users_today": 17,
+      "active_drivers_today": 181
+    },
+    "booking_metrics": {
+      "total_bookings_created": 599,
+      "rides_completed": 214,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5137.81,
+      "platform_revenue": 770.67,
+      "avg_payment_per_ride": 24.01
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 10.5,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2025-08-25",
+    "user_metrics": {
+      "total_users": 11324,
+      "new_users_today": 33,
+      "active_drivers_today": 188
+    },
+    "booking_metrics": {
+      "total_bookings_created": 621,
+      "rides_completed": 222,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8246.2,
+      "platform_revenue": 1236.93,
+      "avg_payment_per_ride": 37.15
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 19.3,
+      "avg_negotiation_discount": "10%"
+    }
+  },
+  {
+    "_id": "2025-08-26",
+    "user_metrics": {
+      "total_users": 11357,
+      "new_users_today": 38,
+      "active_drivers_today": 178
+    },
+    "booking_metrics": {
+      "total_bookings_created": 588,
+      "rides_completed": 210,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5197.9,
+      "platform_revenue": 779.69,
+      "avg_payment_per_ride": 24.75
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 12.8,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2025-08-27",
+    "user_metrics": {
+      "total_users": 11394,
+      "new_users_today": 39,
+      "active_drivers_today": 181
+    },
+    "booking_metrics": {
+      "total_bookings_created": 599,
+      "rides_completed": 214,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7029.7,
+      "platform_revenue": 1054.45,
+      "avg_payment_per_ride": 32.85
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 13.9,
+      "avg_negotiation_discount": "14%"
+    }
+  },
+  {
+    "_id": "2025-08-28",
+    "user_metrics": {
+      "total_users": 11420,
+      "new_users_today": 37,
+      "active_drivers_today": 154
+    },
+    "booking_metrics": {
+      "total_bookings_created": 509,
+      "rides_completed": 182,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4048.25,
+      "platform_revenue": 607.24,
+      "avg_payment_per_ride": 22.24
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 15.0,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2025-08-29",
+    "user_metrics": {
+      "total_users": 11442,
+      "new_users_today": 29,
+      "active_drivers_today": 181
+    },
+    "booking_metrics": {
+      "total_bookings_created": 596,
+      "rides_completed": 213,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5889.52,
+      "platform_revenue": 883.43,
+      "avg_payment_per_ride": 27.65
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 19.5,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2025-08-30",
+    "user_metrics": {
+      "total_users": 11466,
+      "new_users_today": 31,
+      "active_drivers_today": 181
+    },
+    "booking_metrics": {
+      "total_bookings_created": 599,
+      "rides_completed": 214,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8208.11,
+      "platform_revenue": 1231.22,
+      "avg_payment_per_ride": 38.36
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 14.0,
+      "avg_negotiation_discount": "15%"
+    }
+  },
+  {
+    "_id": "2025-08-31",
+    "user_metrics": {
+      "total_users": 11497,
+      "new_users_today": 39,
+      "active_drivers_today": 170
+    },
+    "booking_metrics": {
+      "total_bookings_created": 562,
+      "rides_completed": 201,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7797.25,
+      "platform_revenue": 1169.59,
+      "avg_payment_per_ride": 38.79
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 17.4,
+      "avg_negotiation_discount": "5%"
+    }
+  },
+  {
+    "_id": "2025-09-01",
+    "user_metrics": {
+      "total_users": 11515,
+      "new_users_today": 29,
+      "active_drivers_today": 189
+    },
+    "booking_metrics": {
+      "total_bookings_created": 624,
+      "rides_completed": 223,
+      "cancellation_rate": "5%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 9009.21,
+      "platform_revenue": 1351.38,
+      "avg_payment_per_ride": 40.4
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 19.3,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2025-09-02",
+    "user_metrics": {
+      "total_users": 11537,
+      "new_users_today": 38,
+      "active_drivers_today": 198
+    },
+    "booking_metrics": {
+      "total_bookings_created": 655,
+      "rides_completed": 234,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6089.52,
+      "platform_revenue": 913.43,
+      "avg_payment_per_ride": 26.02
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 19.6,
+      "avg_negotiation_discount": "10%"
+    }
+  },
+  {
+    "_id": "2025-09-03",
+    "user_metrics": {
+      "total_users": 11567,
+      "new_users_today": 24,
+      "active_drivers_today": 185
+    },
+    "booking_metrics": {
+      "total_bookings_created": 610,
+      "rides_completed": 218,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8712.51,
+      "platform_revenue": 1306.88,
+      "avg_payment_per_ride": 39.97
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 14.0,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2025-09-04",
+    "user_metrics": {
+      "total_users": 11605,
+      "new_users_today": 27,
+      "active_drivers_today": 171
+    },
+    "booking_metrics": {
+      "total_bookings_created": 565,
+      "rides_completed": 202,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8377.2,
+      "platform_revenue": 1256.58,
+      "avg_payment_per_ride": 41.47
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 17.8,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2025-09-05",
+    "user_metrics": {
+      "total_users": 11626,
+      "new_users_today": 17,
+      "active_drivers_today": 171
+    },
+    "booking_metrics": {
+      "total_bookings_created": 565,
+      "rides_completed": 202,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8291.25,
+      "platform_revenue": 1243.69,
+      "avg_payment_per_ride": 41.05
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 18.6,
+      "avg_negotiation_discount": "8%"
+    }
+  },
+  {
+    "_id": "2025-09-06",
+    "user_metrics": {
+      "total_users": 11658,
+      "new_users_today": 15,
+      "active_drivers_today": 170
+    },
+    "booking_metrics": {
+      "total_bookings_created": 562,
+      "rides_completed": 201,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4443.77,
+      "platform_revenue": 666.57,
+      "avg_payment_per_ride": 22.11
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.0,
+      "avg_negotiation_discount": "10%"
+    }
+  },
+  {
+    "_id": "2025-09-07",
+    "user_metrics": {
+      "total_users": 11697,
+      "new_users_today": 25,
+      "active_drivers_today": 189
+    },
+    "booking_metrics": {
+      "total_bookings_created": 624,
+      "rides_completed": 223,
+      "cancellation_rate": "5%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6367.34,
+      "platform_revenue": 955.1,
+      "avg_payment_per_ride": 28.55
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 12.1,
+      "avg_negotiation_discount": "13%"
+    }
+  },
+  {
+    "_id": "2025-09-08",
+    "user_metrics": {
+      "total_users": 11725,
+      "new_users_today": 32,
+      "active_drivers_today": 171
+    },
+    "booking_metrics": {
+      "total_bookings_created": 565,
+      "rides_completed": 202,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7087.93,
+      "platform_revenue": 1063.19,
+      "avg_payment_per_ride": 35.09
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 12.6,
+      "avg_negotiation_discount": "8%"
+    }
+  },
+  {
+    "_id": "2025-09-09",
+    "user_metrics": {
+      "total_users": 11761,
+      "new_users_today": 16,
+      "active_drivers_today": 190
+    },
+    "booking_metrics": {
+      "total_bookings_created": 627,
+      "rides_completed": 224,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4562.72,
+      "platform_revenue": 684.41,
+      "avg_payment_per_ride": 20.37
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 21.7,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2025-09-10",
+    "user_metrics": {
+      "total_users": 11800,
+      "new_users_today": 37,
+      "active_drivers_today": 185
+    },
+    "booking_metrics": {
+      "total_bookings_created": 610,
+      "rides_completed": 218,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7451.5,
+      "platform_revenue": 1117.73,
+      "avg_payment_per_ride": 34.18
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 21.8,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2025-09-11",
+    "user_metrics": {
+      "total_users": 11839,
+      "new_users_today": 34,
+      "active_drivers_today": 189
+    },
+    "booking_metrics": {
+      "total_bookings_created": 624,
+      "rides_completed": 223,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6114.46,
+      "platform_revenue": 917.17,
+      "avg_payment_per_ride": 27.42
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 12.0,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2025-09-12",
+    "user_metrics": {
+      "total_users": 11872,
+      "new_users_today": 22,
+      "active_drivers_today": 180
+    },
+    "booking_metrics": {
+      "total_bookings_created": 593,
+      "rides_completed": 212,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6948.62,
+      "platform_revenue": 1042.29,
+      "avg_payment_per_ride": 32.78
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 12.6,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2025-09-13",
+    "user_metrics": {
+      "total_users": 11894,
+      "new_users_today": 26,
+      "active_drivers_today": 188
+    },
+    "booking_metrics": {
+      "total_bookings_created": 621,
+      "rides_completed": 222,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6779.73,
+      "platform_revenue": 1016.96,
+      "avg_payment_per_ride": 30.54
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 15.2,
+      "avg_negotiation_discount": "15%"
+    }
+  },
+  {
+    "_id": "2025-09-14",
+    "user_metrics": {
+      "total_users": 11931,
+      "new_users_today": 27,
+      "active_drivers_today": 198
+    },
+    "booking_metrics": {
+      "total_bookings_created": 652,
+      "rides_completed": 233,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8103.42,
+      "platform_revenue": 1215.51,
+      "avg_payment_per_ride": 34.78
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 21.5,
+      "avg_negotiation_discount": "15%"
+    }
+  },
+  {
+    "_id": "2025-09-15",
+    "user_metrics": {
+      "total_users": 11948,
+      "new_users_today": 30,
+      "active_drivers_today": 173
+    },
+    "booking_metrics": {
+      "total_bookings_created": 571,
+      "rides_completed": 204,
+      "cancellation_rate": "5%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8514.1,
+      "platform_revenue": 1277.11,
+      "avg_payment_per_ride": 41.74
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 10.4,
+      "avg_negotiation_discount": "9%"
+    }
+  },
+  {
+    "_id": "2025-09-16",
+    "user_metrics": {
+      "total_users": 11984,
+      "new_users_today": 40,
+      "active_drivers_today": 183
+    },
+    "booking_metrics": {
+      "total_bookings_created": 604,
+      "rides_completed": 216,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8396.96,
+      "platform_revenue": 1259.54,
+      "avg_payment_per_ride": 38.87
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.8,
+      "avg_negotiation_discount": "14%"
+    }
+  },
+  {
+    "_id": "2025-09-17",
+    "user_metrics": {
+      "total_users": 12021,
+      "new_users_today": 37,
+      "active_drivers_today": 202
+    },
+    "booking_metrics": {
+      "total_bookings_created": 666,
+      "rides_completed": 238,
+      "cancellation_rate": "5%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 9054.86,
+      "platform_revenue": 1358.23,
+      "avg_payment_per_ride": 38.05
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 18.7,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2025-09-18",
+    "user_metrics": {
+      "total_users": 12055,
+      "new_users_today": 21,
+      "active_drivers_today": 173
+    },
+    "booking_metrics": {
+      "total_bookings_created": 571,
+      "rides_completed": 204,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6919.21,
+      "platform_revenue": 1037.88,
+      "avg_payment_per_ride": 33.92
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.0,
+      "avg_negotiation_discount": "5%"
+    }
+  },
+  {
+    "_id": "2025-09-19",
+    "user_metrics": {
+      "total_users": 12072,
+      "new_users_today": 36,
+      "active_drivers_today": 179
+    },
+    "booking_metrics": {
+      "total_bookings_created": 590,
+      "rides_completed": 211,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5005.44,
+      "platform_revenue": 750.82,
+      "avg_payment_per_ride": 23.72
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.9,
+      "avg_negotiation_discount": "5%"
+    }
+  },
+  {
+    "_id": "2025-09-20",
+    "user_metrics": {
+      "total_users": 12088,
+      "new_users_today": 22,
+      "active_drivers_today": 174
+    },
+    "booking_metrics": {
+      "total_bookings_created": 574,
+      "rides_completed": 205,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6294.43,
+      "platform_revenue": 944.16,
+      "avg_payment_per_ride": 30.7
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.0,
+      "avg_negotiation_discount": "15%"
+    }
+  },
+  {
+    "_id": "2025-09-21",
+    "user_metrics": {
+      "total_users": 12116,
+      "new_users_today": 26,
+      "active_drivers_today": 181
+    },
+    "booking_metrics": {
+      "total_bookings_created": 596,
+      "rides_completed": 213,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5535.26,
+      "platform_revenue": 830.29,
+      "avg_payment_per_ride": 25.99
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 19.5,
+      "avg_negotiation_discount": "14%"
+    }
+  },
+  {
+    "_id": "2025-09-22",
+    "user_metrics": {
+      "total_users": 12152,
+      "new_users_today": 40,
+      "active_drivers_today": 178
+    },
+    "booking_metrics": {
+      "total_bookings_created": 588,
+      "rides_completed": 210,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4249.32,
+      "platform_revenue": 637.4,
+      "avg_payment_per_ride": 20.23
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 15.8,
+      "avg_negotiation_discount": "13%"
+    }
+  },
+  {
+    "_id": "2025-09-23",
+    "user_metrics": {
+      "total_users": 12182,
+      "new_users_today": 19,
+      "active_drivers_today": 174
+    },
+    "booking_metrics": {
+      "total_bookings_created": 574,
+      "rides_completed": 205,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7074.88,
+      "platform_revenue": 1061.23,
+      "avg_payment_per_ride": 34.51
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 10.7,
+      "avg_negotiation_discount": "14%"
+    }
+  },
+  {
+    "_id": "2025-09-24",
+    "user_metrics": {
+      "total_users": 12213,
+      "new_users_today": 39,
+      "active_drivers_today": 175
+    },
+    "booking_metrics": {
+      "total_bookings_created": 576,
+      "rides_completed": 206,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5916.42,
+      "platform_revenue": 887.46,
+      "avg_payment_per_ride": 28.72
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 13.3,
+      "avg_negotiation_discount": "8%"
+    }
+  },
+  {
+    "_id": "2025-09-25",
+    "user_metrics": {
+      "total_users": 12234,
+      "new_users_today": 21,
+      "active_drivers_today": 178
+    },
+    "booking_metrics": {
+      "total_bookings_created": 588,
+      "rides_completed": 210,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8389.56,
+      "platform_revenue": 1258.43,
+      "avg_payment_per_ride": 39.95
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 21.3,
+      "avg_negotiation_discount": "15%"
+    }
+  },
+  {
+    "_id": "2025-09-26",
+    "user_metrics": {
+      "total_users": 12250,
+      "new_users_today": 37,
+      "active_drivers_today": 198
+    },
+    "booking_metrics": {
+      "total_bookings_created": 652,
+      "rides_completed": 233,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7859.54,
+      "platform_revenue": 1178.93,
+      "avg_payment_per_ride": 33.73
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 19.4,
+      "avg_negotiation_discount": "15%"
+    }
+  },
+  {
+    "_id": "2025-09-27",
+    "user_metrics": {
+      "total_users": 12275,
+      "new_users_today": 26,
+      "active_drivers_today": 182
+    },
+    "booking_metrics": {
+      "total_bookings_created": 602,
+      "rides_completed": 215,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4474.06,
+      "platform_revenue": 671.11,
+      "avg_payment_per_ride": 20.81
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 19.8,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2025-09-28",
+    "user_metrics": {
+      "total_users": 12314,
+      "new_users_today": 23,
+      "active_drivers_today": 200
+    },
+    "booking_metrics": {
+      "total_bookings_created": 660,
+      "rides_completed": 236,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5439.92,
+      "platform_revenue": 815.99,
+      "avg_payment_per_ride": 23.05
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 10.9,
+      "avg_negotiation_discount": "9%"
+    }
+  },
+  {
+    "_id": "2025-09-29",
+    "user_metrics": {
+      "total_users": 12333,
+      "new_users_today": 23,
+      "active_drivers_today": 163
+    },
+    "booking_metrics": {
+      "total_bookings_created": 537,
+      "rides_completed": 192,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5626.11,
+      "platform_revenue": 843.92,
+      "avg_payment_per_ride": 29.3
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 17.2,
+      "avg_negotiation_discount": "14%"
+    }
+  },
+  {
+    "_id": "2025-09-30",
+    "user_metrics": {
+      "total_users": 12356,
+      "new_users_today": 33,
+      "active_drivers_today": 189
+    },
+    "booking_metrics": {
+      "total_bookings_created": 624,
+      "rides_completed": 223,
+      "cancellation_rate": "5%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5564.88,
+      "platform_revenue": 834.73,
+      "avg_payment_per_ride": 24.95
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.4,
+      "avg_negotiation_discount": "13%"
+    }
+  },
+  {
+    "_id": "2025-10-01",
+    "user_metrics": {
+      "total_users": 12391,
+      "new_users_today": 39,
+      "active_drivers_today": 158
+    },
+    "booking_metrics": {
+      "total_bookings_created": 520,
+      "rides_completed": 186,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6212.38,
+      "platform_revenue": 931.86,
+      "avg_payment_per_ride": 33.4
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.8,
+      "avg_negotiation_discount": "14%"
+    }
+  },
+  {
+    "_id": "2025-10-02",
+    "user_metrics": {
+      "total_users": 12421,
+      "new_users_today": 18,
+      "active_drivers_today": 162
+    },
+    "booking_metrics": {
+      "total_bookings_created": 534,
+      "rides_completed": 191,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7845.97,
+      "platform_revenue": 1176.9,
+      "avg_payment_per_ride": 41.08
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 14.8,
+      "avg_negotiation_discount": "9%"
+    }
+  },
+  {
+    "_id": "2025-10-03",
+    "user_metrics": {
+      "total_users": 12447,
+      "new_users_today": 38,
+      "active_drivers_today": 180
+    },
+    "booking_metrics": {
+      "total_bookings_created": 593,
+      "rides_completed": 212,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4327.26,
+      "platform_revenue": 649.09,
+      "avg_payment_per_ride": 20.41
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 19.0,
+      "avg_negotiation_discount": "14%"
+    }
+  },
+  {
+    "_id": "2025-10-04",
+    "user_metrics": {
+      "total_users": 12474,
+      "new_users_today": 22,
+      "active_drivers_today": 181
+    },
+    "booking_metrics": {
+      "total_bookings_created": 599,
+      "rides_completed": 214,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4908.93,
+      "platform_revenue": 736.34,
+      "avg_payment_per_ride": 22.94
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.4,
+      "avg_negotiation_discount": "9%"
+    }
+  },
+  {
+    "_id": "2025-10-05",
+    "user_metrics": {
+      "total_users": 12509,
+      "new_users_today": 39,
+      "active_drivers_today": 168
+    },
+    "booking_metrics": {
+      "total_bookings_created": 554,
+      "rides_completed": 198,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4787.22,
+      "platform_revenue": 718.08,
+      "avg_payment_per_ride": 24.18
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 13.7,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2025-10-06",
+    "user_metrics": {
+      "total_users": 12524,
+      "new_users_today": 19,
+      "active_drivers_today": 171
+    },
+    "booking_metrics": {
+      "total_bookings_created": 565,
+      "rides_completed": 202,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5346.36,
+      "platform_revenue": 801.95,
+      "avg_payment_per_ride": 26.47
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 21.0,
+      "avg_negotiation_discount": "9%"
+    }
+  },
+  {
+    "_id": "2025-10-07",
+    "user_metrics": {
+      "total_users": 12561,
+      "new_users_today": 34,
+      "active_drivers_today": 186
+    },
+    "booking_metrics": {
+      "total_bookings_created": 613,
+      "rides_completed": 219,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7489.85,
+      "platform_revenue": 1123.48,
+      "avg_payment_per_ride": 34.2
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 14.8,
+      "avg_negotiation_discount": "5%"
+    }
+  },
+  {
+    "_id": "2025-10-08",
+    "user_metrics": {
+      "total_users": 12581,
+      "new_users_today": 25,
+      "active_drivers_today": 175
+    },
+    "booking_metrics": {
+      "total_bookings_created": 576,
+      "rides_completed": 206,
+      "cancellation_rate": "5%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4526.63,
+      "platform_revenue": 679.0,
+      "avg_payment_per_ride": 21.97
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.0,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2025-10-09",
+    "user_metrics": {
+      "total_users": 12596,
+      "new_users_today": 22,
+      "active_drivers_today": 175
+    },
+    "booking_metrics": {
+      "total_bookings_created": 579,
+      "rides_completed": 207,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4907.38,
+      "platform_revenue": 736.11,
+      "avg_payment_per_ride": 23.71
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.0,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2025-10-10",
+    "user_metrics": {
+      "total_users": 12626,
+      "new_users_today": 27,
+      "active_drivers_today": 194
+    },
+    "booking_metrics": {
+      "total_bookings_created": 641,
+      "rides_completed": 229,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5209.4,
+      "platform_revenue": 781.41,
+      "avg_payment_per_ride": 22.75
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 14.3,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2025-10-11",
+    "user_metrics": {
+      "total_users": 12649,
+      "new_users_today": 30,
+      "active_drivers_today": 176
+    },
+    "booking_metrics": {
+      "total_bookings_created": 582,
+      "rides_completed": 208,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5015.22,
+      "platform_revenue": 752.28,
+      "avg_payment_per_ride": 24.11
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.1,
+      "avg_negotiation_discount": "5%"
+    }
+  },
+  {
+    "_id": "2025-10-12",
+    "user_metrics": {
+      "total_users": 12681,
+      "new_users_today": 29,
+      "active_drivers_today": 209
+    },
+    "booking_metrics": {
+      "total_bookings_created": 688,
+      "rides_completed": 246,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5015.14,
+      "platform_revenue": 752.27,
+      "avg_payment_per_ride": 20.39
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 12.0,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2025-10-13",
+    "user_metrics": {
+      "total_users": 12701,
+      "new_users_today": 23,
+      "active_drivers_today": 193
+    },
+    "booking_metrics": {
+      "total_bookings_created": 638,
+      "rides_completed": 228,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5185.25,
+      "platform_revenue": 777.79,
+      "avg_payment_per_ride": 22.74
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 19.7,
+      "avg_negotiation_discount": "6%"
+    }
+  },
+  {
+    "_id": "2025-10-14",
+    "user_metrics": {
+      "total_users": 12720,
+      "new_users_today": 20,
+      "active_drivers_today": 197
+    },
+    "booking_metrics": {
+      "total_bookings_created": 649,
+      "rides_completed": 232,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6741.41,
+      "platform_revenue": 1011.21,
+      "avg_payment_per_ride": 29.06
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 12.5,
+      "avg_negotiation_discount": "14%"
+    }
+  },
+  {
+    "_id": "2025-10-15",
+    "user_metrics": {
+      "total_users": 12759,
+      "new_users_today": 38,
+      "active_drivers_today": 174
+    },
+    "booking_metrics": {
+      "total_bookings_created": 574,
+      "rides_completed": 205,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4219.97,
+      "platform_revenue": 632.99,
+      "avg_payment_per_ride": 20.59
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 17.3,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2025-10-16",
+    "user_metrics": {
+      "total_users": 12794,
+      "new_users_today": 31,
+      "active_drivers_today": 190
+    },
+    "booking_metrics": {
+      "total_bookings_created": 627,
+      "rides_completed": 224,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5534.11,
+      "platform_revenue": 830.12,
+      "avg_payment_per_ride": 24.71
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 21.6,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2025-10-17",
+    "user_metrics": {
+      "total_users": 12812,
+      "new_users_today": 20,
+      "active_drivers_today": 192
+    },
+    "booking_metrics": {
+      "total_bookings_created": 632,
+      "rides_completed": 226,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6243.69,
+      "platform_revenue": 936.55,
+      "avg_payment_per_ride": 27.63
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.9,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2025-10-18",
+    "user_metrics": {
+      "total_users": 12848,
+      "new_users_today": 18,
+      "active_drivers_today": 188
+    },
+    "booking_metrics": {
+      "total_bookings_created": 621,
+      "rides_completed": 222,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8055.97,
+      "platform_revenue": 1208.4,
+      "avg_payment_per_ride": 36.29
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 19.9,
+      "avg_negotiation_discount": "15%"
+    }
+  },
+  {
+    "_id": "2025-10-19",
+    "user_metrics": {
+      "total_users": 12875,
+      "new_users_today": 15,
+      "active_drivers_today": 185
+    },
+    "booking_metrics": {
+      "total_bookings_created": 610,
+      "rides_completed": 218,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8491.08,
+      "platform_revenue": 1273.66,
+      "avg_payment_per_ride": 38.95
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 21.5,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2025-10-20",
+    "user_metrics": {
+      "total_users": 12912,
+      "new_users_today": 39,
+      "active_drivers_today": 181
+    },
+    "booking_metrics": {
+      "total_bookings_created": 599,
+      "rides_completed": 214,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7050.08,
+      "platform_revenue": 1057.51,
+      "avg_payment_per_ride": 32.94
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.5,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2025-10-21",
+    "user_metrics": {
+      "total_users": 12952,
+      "new_users_today": 38,
+      "active_drivers_today": 172
+    },
+    "booking_metrics": {
+      "total_bookings_created": 568,
+      "rides_completed": 203,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4241.73,
+      "platform_revenue": 636.26,
+      "avg_payment_per_ride": 20.9
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.1,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2025-10-22",
+    "user_metrics": {
+      "total_users": 12967,
+      "new_users_today": 30,
+      "active_drivers_today": 196
+    },
+    "booking_metrics": {
+      "total_bookings_created": 646,
+      "rides_completed": 231,
+      "cancellation_rate": "5%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7976.36,
+      "platform_revenue": 1196.45,
+      "avg_payment_per_ride": 34.53
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 20.1,
+      "avg_negotiation_discount": "5%"
+    }
+  },
+  {
+    "_id": "2025-10-23",
+    "user_metrics": {
+      "total_users": 12990,
+      "new_users_today": 38,
+      "active_drivers_today": 194
+    },
+    "booking_metrics": {
+      "total_bookings_created": 641,
+      "rides_completed": 229,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6120.92,
+      "platform_revenue": 918.14,
+      "avg_payment_per_ride": 26.73
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 15.8,
+      "avg_negotiation_discount": "6%"
+    }
+  },
+  {
+    "_id": "2025-10-24",
+    "user_metrics": {
+      "total_users": 13019,
+      "new_users_today": 18,
+      "active_drivers_today": 176
+    },
+    "booking_metrics": {
+      "total_bookings_created": 582,
+      "rides_completed": 208,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6622.43,
+      "platform_revenue": 993.36,
+      "avg_payment_per_ride": 31.84
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.4,
+      "avg_negotiation_discount": "14%"
+    }
+  },
+  {
+    "_id": "2025-10-25",
+    "user_metrics": {
+      "total_users": 13059,
+      "new_users_today": 18,
+      "active_drivers_today": 184
+    },
+    "booking_metrics": {
+      "total_bookings_created": 607,
+      "rides_completed": 217,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4307.86,
+      "platform_revenue": 646.18,
+      "avg_payment_per_ride": 19.85
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.0,
+      "avg_negotiation_discount": "9%"
+    }
+  },
+  {
+    "_id": "2025-10-26",
+    "user_metrics": {
+      "total_users": 13075,
+      "new_users_today": 39,
+      "active_drivers_today": 174
+    },
+    "booking_metrics": {
+      "total_bookings_created": 574,
+      "rides_completed": 205,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5116.67,
+      "platform_revenue": 767.5,
+      "avg_payment_per_ride": 24.96
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 13.1,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2025-10-27",
+    "user_metrics": {
+      "total_users": 13114,
+      "new_users_today": 34,
+      "active_drivers_today": 155
+    },
+    "booking_metrics": {
+      "total_bookings_created": 512,
+      "rides_completed": 183,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5034.16,
+      "platform_revenue": 755.12,
+      "avg_payment_per_ride": 27.51
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 14.5,
+      "avg_negotiation_discount": "9%"
+    }
+  },
+  {
+    "_id": "2025-10-28",
+    "user_metrics": {
+      "total_users": 13137,
+      "new_users_today": 15,
+      "active_drivers_today": 180
+    },
+    "booking_metrics": {
+      "total_bookings_created": 593,
+      "rides_completed": 212,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7566.06,
+      "platform_revenue": 1134.91,
+      "avg_payment_per_ride": 35.69
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 20.4,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2025-10-29",
+    "user_metrics": {
+      "total_users": 13152,
+      "new_users_today": 21,
+      "active_drivers_today": 175
+    },
+    "booking_metrics": {
+      "total_bookings_created": 579,
+      "rides_completed": 207,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5658.3,
+      "platform_revenue": 848.75,
+      "avg_payment_per_ride": 27.33
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 14.2,
+      "avg_negotiation_discount": "8%"
+    }
+  },
+  {
+    "_id": "2025-10-30",
+    "user_metrics": {
+      "total_users": 13170,
+      "new_users_today": 31,
+      "active_drivers_today": 193
+    },
+    "booking_metrics": {
+      "total_bookings_created": 638,
+      "rides_completed": 228,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8214.21,
+      "platform_revenue": 1232.13,
+      "avg_payment_per_ride": 36.03
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.7,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2025-10-31",
+    "user_metrics": {
+      "total_users": 13204,
+      "new_users_today": 34,
+      "active_drivers_today": 191
+    },
+    "booking_metrics": {
+      "total_bookings_created": 630,
+      "rides_completed": 225,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8123.68,
+      "platform_revenue": 1218.55,
+      "avg_payment_per_ride": 36.11
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 12.7,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2025-11-01",
+    "user_metrics": {
+      "total_users": 13233,
+      "new_users_today": 20,
+      "active_drivers_today": 170
+    },
+    "booking_metrics": {
+      "total_bookings_created": 560,
+      "rides_completed": 200,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5019.84,
+      "platform_revenue": 752.98,
+      "avg_payment_per_ride": 25.1
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 21.4,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2025-11-02",
+    "user_metrics": {
+      "total_users": 13267,
+      "new_users_today": 19,
+      "active_drivers_today": 183
+    },
+    "booking_metrics": {
+      "total_bookings_created": 604,
+      "rides_completed": 216,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8005.97,
+      "platform_revenue": 1200.89,
+      "avg_payment_per_ride": 37.06
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 12.9,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2025-11-03",
+    "user_metrics": {
+      "total_users": 13286,
+      "new_users_today": 17,
+      "active_drivers_today": 197
+    },
+    "booking_metrics": {
+      "total_bookings_created": 649,
+      "rides_completed": 232,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 9258.32,
+      "platform_revenue": 1388.75,
+      "avg_payment_per_ride": 39.91
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 19.8,
+      "avg_negotiation_discount": "14%"
+    }
+  },
+  {
+    "_id": "2025-11-04",
+    "user_metrics": {
+      "total_users": 13309,
+      "new_users_today": 19,
+      "active_drivers_today": 185
+    },
+    "booking_metrics": {
+      "total_bookings_created": 610,
+      "rides_completed": 218,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4738.44,
+      "platform_revenue": 710.77,
+      "avg_payment_per_ride": 21.74
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 15.0,
+      "avg_negotiation_discount": "10%"
+    }
+  },
+  {
+    "_id": "2025-11-05",
+    "user_metrics": {
+      "total_users": 13324,
+      "new_users_today": 19,
+      "active_drivers_today": 204
+    },
+    "booking_metrics": {
+      "total_bookings_created": 672,
+      "rides_completed": 240,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8677.13,
+      "platform_revenue": 1301.57,
+      "avg_payment_per_ride": 36.15
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 21.5,
+      "avg_negotiation_discount": "14%"
+    }
+  },
+  {
+    "_id": "2025-11-06",
+    "user_metrics": {
+      "total_users": 13355,
+      "new_users_today": 37,
+      "active_drivers_today": 185
+    },
+    "booking_metrics": {
+      "total_bookings_created": 610,
+      "rides_completed": 218,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7266.25,
+      "platform_revenue": 1089.94,
+      "avg_payment_per_ride": 33.33
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 10.0,
+      "avg_negotiation_discount": "10%"
+    }
+  },
+  {
+    "_id": "2025-11-07",
+    "user_metrics": {
+      "total_users": 13384,
+      "new_users_today": 26,
+      "active_drivers_today": 187
+    },
+    "booking_metrics": {
+      "total_bookings_created": 616,
+      "rides_completed": 220,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7964.17,
+      "platform_revenue": 1194.62,
+      "avg_payment_per_ride": 36.2
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 17.7,
+      "avg_negotiation_discount": "9%"
+    }
+  },
+  {
+    "_id": "2025-11-08",
+    "user_metrics": {
+      "total_users": 13404,
+      "new_users_today": 25,
+      "active_drivers_today": 173
+    },
+    "booking_metrics": {
+      "total_bookings_created": 571,
+      "rides_completed": 204,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5679.81,
+      "platform_revenue": 851.97,
+      "avg_payment_per_ride": 27.84
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.0,
+      "avg_negotiation_discount": "5%"
+    }
+  },
+  {
+    "_id": "2025-11-09",
+    "user_metrics": {
+      "total_users": 13439,
+      "new_users_today": 25,
+      "active_drivers_today": 174
+    },
+    "booking_metrics": {
+      "total_bookings_created": 574,
+      "rides_completed": 205,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8021.42,
+      "platform_revenue": 1203.21,
+      "avg_payment_per_ride": 39.13
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.2,
+      "avg_negotiation_discount": "15%"
+    }
+  },
+  {
+    "_id": "2025-11-10",
+    "user_metrics": {
+      "total_users": 13457,
+      "new_users_today": 37,
+      "active_drivers_today": 176
+    },
+    "booking_metrics": {
+      "total_bookings_created": 582,
+      "rides_completed": 208,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5464.97,
+      "platform_revenue": 819.75,
+      "avg_payment_per_ride": 26.27
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.1,
+      "avg_negotiation_discount": "8%"
+    }
+  },
+  {
+    "_id": "2025-11-11",
+    "user_metrics": {
+      "total_users": 13475,
+      "new_users_today": 35,
+      "active_drivers_today": 157
+    },
+    "booking_metrics": {
+      "total_bookings_created": 518,
+      "rides_completed": 185,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4637.91,
+      "platform_revenue": 695.69,
+      "avg_payment_per_ride": 25.07
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.3,
+      "avg_negotiation_discount": "15%"
+    }
+  },
+  {
+    "_id": "2025-11-12",
+    "user_metrics": {
+      "total_users": 13496,
+      "new_users_today": 38,
+      "active_drivers_today": 176
+    },
+    "booking_metrics": {
+      "total_bookings_created": 582,
+      "rides_completed": 208,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7189.63,
+      "platform_revenue": 1078.44,
+      "avg_payment_per_ride": 34.57
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.9,
+      "avg_negotiation_discount": "10%"
+    }
+  },
+  {
+    "_id": "2025-11-13",
+    "user_metrics": {
+      "total_users": 13534,
+      "new_users_today": 24,
+      "active_drivers_today": 185
+    },
+    "booking_metrics": {
+      "total_bookings_created": 610,
+      "rides_completed": 218,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6549.49,
+      "platform_revenue": 982.42,
+      "avg_payment_per_ride": 30.04
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.1,
+      "avg_negotiation_discount": "8%"
+    }
+  },
+  {
+    "_id": "2025-11-14",
+    "user_metrics": {
+      "total_users": 13562,
+      "new_users_today": 25,
+      "active_drivers_today": 170
+    },
+    "booking_metrics": {
+      "total_bookings_created": 560,
+      "rides_completed": 200,
+      "cancellation_rate": "5%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6181.55,
+      "platform_revenue": 927.23,
+      "avg_payment_per_ride": 30.91
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 15.3,
+      "avg_negotiation_discount": "13%"
+    }
+  },
+  {
+    "_id": "2025-11-15",
+    "user_metrics": {
+      "total_users": 13582,
+      "new_users_today": 31,
+      "active_drivers_today": 169
+    },
+    "booking_metrics": {
+      "total_bookings_created": 557,
+      "rides_completed": 199,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5689.82,
+      "platform_revenue": 853.47,
+      "avg_payment_per_ride": 28.59
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 20.0,
+      "avg_negotiation_discount": "13%"
+    }
+  },
+  {
+    "_id": "2025-11-16",
+    "user_metrics": {
+      "total_users": 13598,
+      "new_users_today": 27,
+      "active_drivers_today": 147
+    },
+    "booking_metrics": {
+      "total_bookings_created": 487,
+      "rides_completed": 174,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6431.57,
+      "platform_revenue": 964.73,
+      "avg_payment_per_ride": 36.96
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 21.3,
+      "avg_negotiation_discount": "9%"
+    }
+  },
+  {
+    "_id": "2025-11-17",
+    "user_metrics": {
+      "total_users": 13622,
+      "new_users_today": 36,
+      "active_drivers_today": 181
+    },
+    "booking_metrics": {
+      "total_bookings_created": 599,
+      "rides_completed": 214,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7455.18,
+      "platform_revenue": 1118.28,
+      "avg_payment_per_ride": 34.84
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 20.9,
+      "avg_negotiation_discount": "15%"
+    }
+  },
+  {
+    "_id": "2025-11-18",
+    "user_metrics": {
+      "total_users": 13662,
+      "new_users_today": 36,
+      "active_drivers_today": 187
+    },
+    "booking_metrics": {
+      "total_bookings_created": 618,
+      "rides_completed": 221,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7049.42,
+      "platform_revenue": 1057.41,
+      "avg_payment_per_ride": 31.9
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 12.6,
+      "avg_negotiation_discount": "6%"
+    }
+  },
+  {
+    "_id": "2025-11-19",
+    "user_metrics": {
+      "total_users": 13680,
+      "new_users_today": 30,
+      "active_drivers_today": 169
+    },
+    "booking_metrics": {
+      "total_bookings_created": 557,
+      "rides_completed": 199,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6856.13,
+      "platform_revenue": 1028.42,
+      "avg_payment_per_ride": 34.45
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 14.5,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2025-11-20",
+    "user_metrics": {
+      "total_users": 13718,
+      "new_users_today": 24,
+      "active_drivers_today": 189
+    },
+    "booking_metrics": {
+      "total_bookings_created": 624,
+      "rides_completed": 223,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6090.79,
+      "platform_revenue": 913.62,
+      "avg_payment_per_ride": 27.31
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 19.5,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2025-11-21",
+    "user_metrics": {
+      "total_users": 13758,
+      "new_users_today": 35,
+      "active_drivers_today": 194
+    },
+    "booking_metrics": {
+      "total_bookings_created": 641,
+      "rides_completed": 229,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7319.57,
+      "platform_revenue": 1097.93,
+      "avg_payment_per_ride": 31.96
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.8,
+      "avg_negotiation_discount": "13%"
+    }
+  },
+  {
+    "_id": "2025-11-22",
+    "user_metrics": {
+      "total_users": 13785,
+      "new_users_today": 15,
+      "active_drivers_today": 196
+    },
+    "booking_metrics": {
+      "total_bookings_created": 646,
+      "rides_completed": 231,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8880.56,
+      "platform_revenue": 1332.08,
+      "avg_payment_per_ride": 38.44
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 13.1,
+      "avg_negotiation_discount": "10%"
+    }
+  },
+  {
+    "_id": "2025-11-23",
+    "user_metrics": {
+      "total_users": 13811,
+      "new_users_today": 19,
+      "active_drivers_today": 185
+    },
+    "booking_metrics": {
+      "total_bookings_created": 610,
+      "rides_completed": 218,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7166.44,
+      "platform_revenue": 1074.97,
+      "avg_payment_per_ride": 32.87
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 18.9,
+      "avg_negotiation_discount": "14%"
+    }
+  },
+  {
+    "_id": "2025-11-24",
+    "user_metrics": {
+      "total_users": 13849,
+      "new_users_today": 38,
+      "active_drivers_today": 174
+    },
+    "booking_metrics": {
+      "total_bookings_created": 574,
+      "rides_completed": 205,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7361.02,
+      "platform_revenue": 1104.15,
+      "avg_payment_per_ride": 35.91
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 21.5,
+      "avg_negotiation_discount": "10%"
+    }
+  },
+  {
+    "_id": "2025-11-25",
+    "user_metrics": {
+      "total_users": 13885,
+      "new_users_today": 30,
+      "active_drivers_today": 191
+    },
+    "booking_metrics": {
+      "total_bookings_created": 630,
+      "rides_completed": 225,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5065.39,
+      "platform_revenue": 759.81,
+      "avg_payment_per_ride": 22.51
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.0,
+      "avg_negotiation_discount": "5%"
+    }
+  },
+  {
+    "_id": "2025-11-26",
+    "user_metrics": {
+      "total_users": 13904,
+      "new_users_today": 33,
+      "active_drivers_today": 178
+    },
+    "booking_metrics": {
+      "total_bookings_created": 588,
+      "rides_completed": 210,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5114.7,
+      "platform_revenue": 767.21,
+      "avg_payment_per_ride": 24.36
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.7,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2025-11-27",
+    "user_metrics": {
+      "total_users": 13924,
+      "new_users_today": 31,
+      "active_drivers_today": 160
+    },
+    "booking_metrics": {
+      "total_bookings_created": 529,
+      "rides_completed": 189,
+      "cancellation_rate": "5%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4557.67,
+      "platform_revenue": 683.65,
+      "avg_payment_per_ride": 24.11
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 14.2,
+      "avg_negotiation_discount": "13%"
+    }
+  },
+  {
+    "_id": "2025-11-28",
+    "user_metrics": {
+      "total_users": 13942,
+      "new_users_today": 29,
+      "active_drivers_today": 168
+    },
+    "booking_metrics": {
+      "total_bookings_created": 554,
+      "rides_completed": 198,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4066.11,
+      "platform_revenue": 609.92,
+      "avg_payment_per_ride": 20.54
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 14.4,
+      "avg_negotiation_discount": "15%"
+    }
+  },
+  {
+    "_id": "2025-11-29",
+    "user_metrics": {
+      "total_users": 13973,
+      "new_users_today": 25,
+      "active_drivers_today": 175
+    },
+    "booking_metrics": {
+      "total_bookings_created": 576,
+      "rides_completed": 206,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7417.92,
+      "platform_revenue": 1112.69,
+      "avg_payment_per_ride": 36.01
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.4,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2025-11-30",
+    "user_metrics": {
+      "total_users": 14001,
+      "new_users_today": 28,
+      "active_drivers_today": 181
+    },
+    "booking_metrics": {
+      "total_bookings_created": 599,
+      "rides_completed": 214,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7662.77,
+      "platform_revenue": 1149.42,
+      "avg_payment_per_ride": 35.81
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.3,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2025-12-01",
+    "user_metrics": {
+      "total_users": 14038,
+      "new_users_today": 17,
+      "active_drivers_today": 175
+    },
+    "booking_metrics": {
+      "total_bookings_created": 576,
+      "rides_completed": 206,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7203.39,
+      "platform_revenue": 1080.51,
+      "avg_payment_per_ride": 34.97
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.4,
+      "avg_negotiation_discount": "9%"
+    }
+  },
+  {
+    "_id": "2025-12-02",
+    "user_metrics": {
+      "total_users": 14071,
+      "new_users_today": 20,
+      "active_drivers_today": 160
+    },
+    "booking_metrics": {
+      "total_bookings_created": 529,
+      "rides_completed": 189,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6726.41,
+      "platform_revenue": 1008.96,
+      "avg_payment_per_ride": 35.59
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 13.5,
+      "avg_negotiation_discount": "14%"
+    }
+  },
+  {
+    "_id": "2025-12-03",
+    "user_metrics": {
+      "total_users": 14090,
+      "new_users_today": 34,
+      "active_drivers_today": 170
+    },
+    "booking_metrics": {
+      "total_bookings_created": 560,
+      "rides_completed": 200,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7232.01,
+      "platform_revenue": 1084.8,
+      "avg_payment_per_ride": 36.16
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 21.5,
+      "avg_negotiation_discount": "5%"
+    }
+  },
+  {
+    "_id": "2025-12-04",
+    "user_metrics": {
+      "total_users": 14109,
+      "new_users_today": 27,
+      "active_drivers_today": 141
+    },
+    "booking_metrics": {
+      "total_bookings_created": 467,
+      "rides_completed": 167,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5252.7,
+      "platform_revenue": 787.91,
+      "avg_payment_per_ride": 31.45
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.0,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2025-12-05",
+    "user_metrics": {
+      "total_users": 14128,
+      "new_users_today": 39,
+      "active_drivers_today": 165
+    },
+    "booking_metrics": {
+      "total_bookings_created": 546,
+      "rides_completed": 195,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4436.09,
+      "platform_revenue": 665.41,
+      "avg_payment_per_ride": 22.75
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 18.0,
+      "avg_negotiation_discount": "15%"
+    }
+  },
+  {
+    "_id": "2025-12-06",
+    "user_metrics": {
+      "total_users": 14147,
+      "new_users_today": 21,
+      "active_drivers_today": 164
+    },
+    "booking_metrics": {
+      "total_bookings_created": 543,
+      "rides_completed": 194,
+      "cancellation_rate": "5%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5915.59,
+      "platform_revenue": 887.34,
+      "avg_payment_per_ride": 30.49
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 19.1,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2025-12-07",
+    "user_metrics": {
+      "total_users": 14177,
+      "new_users_today": 37,
+      "active_drivers_today": 190
+    },
+    "booking_metrics": {
+      "total_bookings_created": 627,
+      "rides_completed": 224,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7208.71,
+      "platform_revenue": 1081.31,
+      "avg_payment_per_ride": 32.18
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.2,
+      "avg_negotiation_discount": "6%"
+    }
+  },
+  {
+    "_id": "2025-12-08",
+    "user_metrics": {
+      "total_users": 14209,
+      "new_users_today": 18,
+      "active_drivers_today": 187
+    },
+    "booking_metrics": {
+      "total_bookings_created": 616,
+      "rides_completed": 220,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6296.2,
+      "platform_revenue": 944.43,
+      "avg_payment_per_ride": 28.62
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 17.5,
+      "avg_negotiation_discount": "5%"
+    }
+  },
+  {
+    "_id": "2025-12-09",
+    "user_metrics": {
+      "total_users": 14235,
+      "new_users_today": 27,
+      "active_drivers_today": 197
+    },
+    "booking_metrics": {
+      "total_bookings_created": 649,
+      "rides_completed": 232,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6850.99,
+      "platform_revenue": 1027.65,
+      "avg_payment_per_ride": 29.53
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 15.6,
+      "avg_negotiation_discount": "9%"
+    }
+  },
+  {
+    "_id": "2025-12-10",
+    "user_metrics": {
+      "total_users": 14253,
+      "new_users_today": 31,
+      "active_drivers_today": 178
+    },
+    "booking_metrics": {
+      "total_bookings_created": 588,
+      "rides_completed": 210,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8662.8,
+      "platform_revenue": 1299.42,
+      "avg_payment_per_ride": 41.25
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 12.8,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2025-12-11",
+    "user_metrics": {
+      "total_users": 14276,
+      "new_users_today": 19,
+      "active_drivers_today": 190
+    },
+    "booking_metrics": {
+      "total_bookings_created": 627,
+      "rides_completed": 224,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6530.93,
+      "platform_revenue": 979.64,
+      "avg_payment_per_ride": 29.16
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 10.5,
+      "avg_negotiation_discount": "10%"
+    }
+  },
+  {
+    "_id": "2025-12-12",
+    "user_metrics": {
+      "total_users": 14305,
+      "new_users_today": 15,
+      "active_drivers_today": 170
+    },
+    "booking_metrics": {
+      "total_bookings_created": 560,
+      "rides_completed": 200,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6680.48,
+      "platform_revenue": 1002.07,
+      "avg_payment_per_ride": 33.4
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.5,
+      "avg_negotiation_discount": "5%"
+    }
+  },
+  {
+    "_id": "2025-12-13",
+    "user_metrics": {
+      "total_users": 14325,
+      "new_users_today": 19,
+      "active_drivers_today": 183
+    },
+    "booking_metrics": {
+      "total_bookings_created": 604,
+      "rides_completed": 216,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8748.62,
+      "platform_revenue": 1312.29,
+      "avg_payment_per_ride": 40.5
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 19.9,
+      "avg_negotiation_discount": "8%"
+    }
+  },
+  {
+    "_id": "2025-12-14",
+    "user_metrics": {
+      "total_users": 14358,
+      "new_users_today": 27,
+      "active_drivers_today": 187
+    },
+    "booking_metrics": {
+      "total_bookings_created": 616,
+      "rides_completed": 220,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4617.14,
+      "platform_revenue": 692.57,
+      "avg_payment_per_ride": 20.99
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 10.5,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2025-12-15",
+    "user_metrics": {
+      "total_users": 14384,
+      "new_users_today": 38,
+      "active_drivers_today": 183
+    },
+    "booking_metrics": {
+      "total_bookings_created": 604,
+      "rides_completed": 216,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5731.31,
+      "platform_revenue": 859.7,
+      "avg_payment_per_ride": 26.53
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 17.0,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2025-12-16",
+    "user_metrics": {
+      "total_users": 14410,
+      "new_users_today": 38,
+      "active_drivers_today": 179
+    },
+    "booking_metrics": {
+      "total_bookings_created": 590,
+      "rides_completed": 211,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6494.86,
+      "platform_revenue": 974.23,
+      "avg_payment_per_ride": 30.78
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 13.4,
+      "avg_negotiation_discount": "15%"
+    }
+  },
+  {
+    "_id": "2025-12-17",
+    "user_metrics": {
+      "total_users": 14441,
+      "new_users_today": 32,
+      "active_drivers_today": 179
+    },
+    "booking_metrics": {
+      "total_bookings_created": 590,
+      "rides_completed": 211,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4235.65,
+      "platform_revenue": 635.35,
+      "avg_payment_per_ride": 20.07
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 21.6,
+      "avg_negotiation_discount": "6%"
+    }
+  },
+  {
+    "_id": "2025-12-18",
+    "user_metrics": {
+      "total_users": 14480,
+      "new_users_today": 15,
+      "active_drivers_today": 165
+    },
+    "booking_metrics": {
+      "total_bookings_created": 546,
+      "rides_completed": 195,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5168.29,
+      "platform_revenue": 775.24,
+      "avg_payment_per_ride": 26.5
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 13.4,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2025-12-19",
+    "user_metrics": {
+      "total_users": 14518,
+      "new_users_today": 34,
+      "active_drivers_today": 183
+    },
+    "booking_metrics": {
+      "total_bookings_created": 604,
+      "rides_completed": 216,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4369.83,
+      "platform_revenue": 655.48,
+      "avg_payment_per_ride": 20.23
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 17.7,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2025-12-20",
+    "user_metrics": {
+      "total_users": 14558,
+      "new_users_today": 38,
+      "active_drivers_today": 185
+    },
+    "booking_metrics": {
+      "total_bookings_created": 610,
+      "rides_completed": 218,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5567.26,
+      "platform_revenue": 835.09,
+      "avg_payment_per_ride": 25.54
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 18.5,
+      "avg_negotiation_discount": "9%"
+    }
+  },
+  {
+    "_id": "2025-12-21",
+    "user_metrics": {
+      "total_users": 14580,
+      "new_users_today": 35,
+      "active_drivers_today": 191
+    },
+    "booking_metrics": {
+      "total_bookings_created": 630,
+      "rides_completed": 225,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7289.84,
+      "platform_revenue": 1093.48,
+      "avg_payment_per_ride": 32.4
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 13.8,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2025-12-22",
+    "user_metrics": {
+      "total_users": 14620,
+      "new_users_today": 31,
+      "active_drivers_today": 189
+    },
+    "booking_metrics": {
+      "total_bookings_created": 624,
+      "rides_completed": 223,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5992.4,
+      "platform_revenue": 898.86,
+      "avg_payment_per_ride": 26.87
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 19.9,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2025-12-23",
+    "user_metrics": {
+      "total_users": 14649,
+      "new_users_today": 25,
+      "active_drivers_today": 179
+    },
+    "booking_metrics": {
+      "total_bookings_created": 590,
+      "rides_completed": 211,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5553.75,
+      "platform_revenue": 833.06,
+      "avg_payment_per_ride": 26.32
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 18.4,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2025-12-24",
+    "user_metrics": {
+      "total_users": 14667,
+      "new_users_today": 25,
+      "active_drivers_today": 163
+    },
+    "booking_metrics": {
+      "total_bookings_created": 537,
+      "rides_completed": 192,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7893.68,
+      "platform_revenue": 1184.05,
+      "avg_payment_per_ride": 41.11
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 21.8,
+      "avg_negotiation_discount": "5%"
+    }
+  },
+  {
+    "_id": "2025-12-25",
+    "user_metrics": {
+      "total_users": 14703,
+      "new_users_today": 37,
+      "active_drivers_today": 184
+    },
+    "booking_metrics": {
+      "total_bookings_created": 607,
+      "rides_completed": 217,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7007.56,
+      "platform_revenue": 1051.13,
+      "avg_payment_per_ride": 32.29
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 21.7,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2025-12-26",
+    "user_metrics": {
+      "total_users": 14736,
+      "new_users_today": 28,
+      "active_drivers_today": 152
+    },
+    "booking_metrics": {
+      "total_bookings_created": 501,
+      "rides_completed": 179,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4416.69,
+      "platform_revenue": 662.5,
+      "avg_payment_per_ride": 24.67
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 21.1,
+      "avg_negotiation_discount": "5%"
+    }
+  },
+  {
+    "_id": "2025-12-27",
+    "user_metrics": {
+      "total_users": 14758,
+      "new_users_today": 17,
+      "active_drivers_today": 152
+    },
+    "booking_metrics": {
+      "total_bookings_created": 501,
+      "rides_completed": 179,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4231.08,
+      "platform_revenue": 634.66,
+      "avg_payment_per_ride": 23.64
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 19.1,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2025-12-28",
+    "user_metrics": {
+      "total_users": 14788,
+      "new_users_today": 25,
+      "active_drivers_today": 182
+    },
+    "booking_metrics": {
+      "total_bookings_created": 602,
+      "rides_completed": 215,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8229.6,
+      "platform_revenue": 1234.44,
+      "avg_payment_per_ride": 38.28
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 12.5,
+      "avg_negotiation_discount": "9%"
+    }
+  },
+  {
+    "_id": "2025-12-29",
+    "user_metrics": {
+      "total_users": 14819,
+      "new_users_today": 39,
+      "active_drivers_today": 204
+    },
+    "booking_metrics": {
+      "total_bookings_created": 672,
+      "rides_completed": 240,
+      "cancellation_rate": "5%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8176.35,
+      "platform_revenue": 1226.45,
+      "avg_payment_per_ride": 34.07
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 14.0,
+      "avg_negotiation_discount": "14%"
+    }
+  },
+  {
+    "_id": "2025-12-30",
+    "user_metrics": {
+      "total_users": 14859,
+      "new_users_today": 20,
+      "active_drivers_today": 182
+    },
+    "booking_metrics": {
+      "total_bookings_created": 602,
+      "rides_completed": 215,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4308.41,
+      "platform_revenue": 646.26,
+      "avg_payment_per_ride": 20.04
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 19.6,
+      "avg_negotiation_discount": "15%"
+    }
+  },
+  {
+    "_id": "2025-12-31",
+    "user_metrics": {
+      "total_users": 14886,
+      "new_users_today": 15,
+      "active_drivers_today": 183
+    },
+    "booking_metrics": {
+      "total_bookings_created": 604,
+      "rides_completed": 216,
+      "cancellation_rate": "5%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4935.78,
+      "platform_revenue": 740.37,
+      "avg_payment_per_ride": 22.85
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.2,
+      "avg_negotiation_discount": "9%"
+    }
+  },
+  {
+    "_id": "2026-01-01",
+    "user_metrics": {
+      "total_users": 14920,
+      "new_users_today": 35,
+      "active_drivers_today": 179
+    },
+    "booking_metrics": {
+      "total_bookings_created": 590,
+      "rides_completed": 211,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7042.52,
+      "platform_revenue": 1056.38,
+      "avg_payment_per_ride": 33.38
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 19.7,
+      "avg_negotiation_discount": "13%"
+    }
+  },
+  {
+    "_id": "2026-01-02",
+    "user_metrics": {
+      "total_users": 14960,
+      "new_users_today": 36,
+      "active_drivers_today": 182
+    },
+    "booking_metrics": {
+      "total_bookings_created": 602,
+      "rides_completed": 215,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8113.6,
+      "platform_revenue": 1217.04,
+      "avg_payment_per_ride": 37.74
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 20.3,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2026-01-03",
+    "user_metrics": {
+      "total_users": 14976,
+      "new_users_today": 28,
+      "active_drivers_today": 178
+    },
+    "booking_metrics": {
+      "total_bookings_created": 588,
+      "rides_completed": 210,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6551.9,
+      "platform_revenue": 982.79,
+      "avg_payment_per_ride": 31.2
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 13.7,
+      "avg_negotiation_discount": "13%"
+    }
+  },
+  {
+    "_id": "2026-01-04",
+    "user_metrics": {
+      "total_users": 15015,
+      "new_users_today": 38,
+      "active_drivers_today": 200
+    },
+    "booking_metrics": {
+      "total_bookings_created": 660,
+      "rides_completed": 236,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8840.21,
+      "platform_revenue": 1326.03,
+      "avg_payment_per_ride": 37.46
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 12.4,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2026-01-05",
+    "user_metrics": {
+      "total_users": 15039,
+      "new_users_today": 23,
+      "active_drivers_today": 167
+    },
+    "booking_metrics": {
+      "total_bookings_created": 551,
+      "rides_completed": 197,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6096.98,
+      "platform_revenue": 914.55,
+      "avg_payment_per_ride": 30.95
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.5,
+      "avg_negotiation_discount": "8%"
+    }
+  },
+  {
+    "_id": "2026-01-06",
+    "user_metrics": {
+      "total_users": 15078,
+      "new_users_today": 15,
+      "active_drivers_today": 178
+    },
+    "booking_metrics": {
+      "total_bookings_created": 588,
+      "rides_completed": 210,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6230.03,
+      "platform_revenue": 934.5,
+      "avg_payment_per_ride": 29.67
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.9,
+      "avg_negotiation_discount": "8%"
+    }
+  },
+  {
+    "_id": "2026-01-07",
+    "user_metrics": {
+      "total_users": 15106,
+      "new_users_today": 17,
+      "active_drivers_today": 177
+    },
+    "booking_metrics": {
+      "total_bookings_created": 585,
+      "rides_completed": 209,
+      "cancellation_rate": "5%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7855.13,
+      "platform_revenue": 1178.27,
+      "avg_payment_per_ride": 37.58
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 13.3,
+      "avg_negotiation_discount": "13%"
+    }
+  },
+  {
+    "_id": "2026-01-08",
+    "user_metrics": {
+      "total_users": 15133,
+      "new_users_today": 21,
+      "active_drivers_today": 182
+    },
+    "booking_metrics": {
+      "total_bookings_created": 602,
+      "rides_completed": 215,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5061.39,
+      "platform_revenue": 759.21,
+      "avg_payment_per_ride": 23.54
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.1,
+      "avg_negotiation_discount": "8%"
+    }
+  },
+  {
+    "_id": "2026-01-09",
+    "user_metrics": {
+      "total_users": 15152,
+      "new_users_today": 40,
+      "active_drivers_today": 175
+    },
+    "booking_metrics": {
+      "total_bookings_created": 576,
+      "rides_completed": 206,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6059.7,
+      "platform_revenue": 908.96,
+      "avg_payment_per_ride": 29.42
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.3,
+      "avg_negotiation_discount": "14%"
+    }
+  },
+  {
+    "_id": "2026-01-10",
+    "user_metrics": {
+      "total_users": 15174,
+      "new_users_today": 15,
+      "active_drivers_today": 170
+    },
+    "booking_metrics": {
+      "total_bookings_created": 560,
+      "rides_completed": 200,
+      "cancellation_rate": "5%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7477.52,
+      "platform_revenue": 1121.63,
+      "avg_payment_per_ride": 37.39
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 15.7,
+      "avg_negotiation_discount": "6%"
+    }
+  },
+  {
+    "_id": "2026-01-11",
+    "user_metrics": {
+      "total_users": 15201,
+      "new_users_today": 40,
+      "active_drivers_today": 160
+    },
+    "booking_metrics": {
+      "total_bookings_created": 529,
+      "rides_completed": 189,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5692.1,
+      "platform_revenue": 853.82,
+      "avg_payment_per_ride": 30.12
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 15.7,
+      "avg_negotiation_discount": "14%"
+    }
+  },
+  {
+    "_id": "2026-01-12",
+    "user_metrics": {
+      "total_users": 15227,
+      "new_users_today": 37,
+      "active_drivers_today": 192
+    },
+    "booking_metrics": {
+      "total_bookings_created": 632,
+      "rides_completed": 226,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8516.96,
+      "platform_revenue": 1277.54,
+      "avg_payment_per_ride": 37.69
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 12.2,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2026-01-13",
+    "user_metrics": {
+      "total_users": 15259,
+      "new_users_today": 27,
+      "active_drivers_today": 180
+    },
+    "booking_metrics": {
+      "total_bookings_created": 593,
+      "rides_completed": 212,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7467.38,
+      "platform_revenue": 1120.11,
+      "avg_payment_per_ride": 35.22
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 18.2,
+      "avg_negotiation_discount": "8%"
+    }
+  },
+  {
+    "_id": "2026-01-14",
+    "user_metrics": {
+      "total_users": 15299,
+      "new_users_today": 16,
+      "active_drivers_today": 195
+    },
+    "booking_metrics": {
+      "total_bookings_created": 644,
+      "rides_completed": 230,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5693.22,
+      "platform_revenue": 853.98,
+      "avg_payment_per_ride": 24.75
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.6,
+      "avg_negotiation_discount": "10%"
+    }
+  },
+  {
+    "_id": "2026-01-15",
+    "user_metrics": {
+      "total_users": 15338,
+      "new_users_today": 20,
+      "active_drivers_today": 177
+    },
+    "booking_metrics": {
+      "total_bookings_created": 585,
+      "rides_completed": 209,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5513.24,
+      "platform_revenue": 826.99,
+      "avg_payment_per_ride": 26.38
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 21.0,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2026-01-16",
+    "user_metrics": {
+      "total_users": 15364,
+      "new_users_today": 19,
+      "active_drivers_today": 153
+    },
+    "booking_metrics": {
+      "total_bookings_created": 503,
+      "rides_completed": 180,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7280.14,
+      "platform_revenue": 1092.02,
+      "avg_payment_per_ride": 40.45
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.4,
+      "avg_negotiation_discount": "8%"
+    }
+  },
+  {
+    "_id": "2026-01-17",
+    "user_metrics": {
+      "total_users": 15387,
+      "new_users_today": 24,
+      "active_drivers_today": 189
+    },
+    "booking_metrics": {
+      "total_bookings_created": 624,
+      "rides_completed": 223,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6513.11,
+      "platform_revenue": 976.97,
+      "avg_payment_per_ride": 29.21
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 20.4,
+      "avg_negotiation_discount": "13%"
+    }
+  },
+  {
+    "_id": "2026-01-18",
+    "user_metrics": {
+      "total_users": 15412,
+      "new_users_today": 33,
+      "active_drivers_today": 175
+    },
+    "booking_metrics": {
+      "total_bookings_created": 579,
+      "rides_completed": 207,
+      "cancellation_rate": "5%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6456.51,
+      "platform_revenue": 968.48,
+      "avg_payment_per_ride": 31.19
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 21.1,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2026-01-19",
+    "user_metrics": {
+      "total_users": 15448,
+      "new_users_today": 16,
+      "active_drivers_today": 180
+    },
+    "booking_metrics": {
+      "total_bookings_created": 593,
+      "rides_completed": 212,
+      "cancellation_rate": "5%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6708.09,
+      "platform_revenue": 1006.21,
+      "avg_payment_per_ride": 31.64
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 17.0,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2026-01-20",
+    "user_metrics": {
+      "total_users": 15486,
+      "new_users_today": 17,
+      "active_drivers_today": 182
+    },
+    "booking_metrics": {
+      "total_bookings_created": 602,
+      "rides_completed": 215,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7109.76,
+      "platform_revenue": 1066.46,
+      "avg_payment_per_ride": 33.07
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 12.1,
+      "avg_negotiation_discount": "15%"
+    }
+  },
+  {
+    "_id": "2026-01-21",
+    "user_metrics": {
+      "total_users": 15519,
+      "new_users_today": 25,
+      "active_drivers_today": 194
+    },
+    "booking_metrics": {
+      "total_bookings_created": 641,
+      "rides_completed": 229,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 9051.71,
+      "platform_revenue": 1357.76,
+      "avg_payment_per_ride": 39.53
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 17.5,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2026-01-22",
+    "user_metrics": {
+      "total_users": 15544,
+      "new_users_today": 29,
+      "active_drivers_today": 181
+    },
+    "booking_metrics": {
+      "total_bookings_created": 599,
+      "rides_completed": 214,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7864.6,
+      "platform_revenue": 1179.69,
+      "avg_payment_per_ride": 36.75
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 17.9,
+      "avg_negotiation_discount": "15%"
+    }
+  },
+  {
+    "_id": "2026-01-23",
+    "user_metrics": {
+      "total_users": 15579,
+      "new_users_today": 39,
+      "active_drivers_today": 184
+    },
+    "booking_metrics": {
+      "total_bookings_created": 607,
+      "rides_completed": 217,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4459.99,
+      "platform_revenue": 669.0,
+      "avg_payment_per_ride": 20.55
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.7,
+      "avg_negotiation_discount": "10%"
+    }
+  },
+  {
+    "_id": "2026-01-24",
+    "user_metrics": {
+      "total_users": 15606,
+      "new_users_today": 23,
+      "active_drivers_today": 192
+    },
+    "booking_metrics": {
+      "total_bookings_created": 78892,
+      "rides_completed": 227,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 947483.34,
+      "platform_revenue": 142122.5,
+      "avg_payment_per_ride": 4173.94
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 12.3,
+      "avg_negotiation_discount": "14%"
+    }
+  },
+  {
+    "_id": "2026-01-25",
+    "user_metrics": {
+      "total_users": 15631,
+      "new_users_today": 39,
+      "active_drivers_today": 163
+    },
+    "booking_metrics": {
+      "total_bookings_created": 537,
+      "rides_completed": 192,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5209.73,
+      "platform_revenue": 781.46,
+      "avg_payment_per_ride": 27.13
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 10.3,
+      "avg_negotiation_discount": "6%"
+    }
+  },
+  {
+    "_id": "2026-01-26",
+    "user_metrics": {
+      "total_users": 15646,
+      "new_users_today": 15,
+      "active_drivers_today": 194
+    },
+    "booking_metrics": {
+      "total_bookings_created": 641,
+      "rides_completed": 229,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4538.85,
+      "platform_revenue": 680.83,
+      "avg_payment_per_ride": 19.82
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 14.4,
+      "avg_negotiation_discount": "6%"
+    }
+  },
+  {
+    "_id": "2026-01-27",
+    "user_metrics": {
+      "total_users": 15662,
+      "new_users_today": 19,
+      "active_drivers_today": 191
+    },
+    "booking_metrics": {
+      "total_bookings_created": 630,
+      "rides_completed": 225,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6864.99,
+      "platform_revenue": 1029.75,
+      "avg_payment_per_ride": 30.51
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 18.6,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2026-01-28",
+    "user_metrics": {
+      "total_users": 15699,
+      "new_users_today": 24,
+      "active_drivers_today": 197
+    },
+    "booking_metrics": {
+      "total_bookings_created": 649,
+      "rides_completed": 232,
+      "cancellation_rate": "5%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7456.93,
+      "platform_revenue": 1118.54,
+      "avg_payment_per_ride": 32.14
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 21.2,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2026-01-29",
+    "user_metrics": {
+      "total_users": 15734,
+      "new_users_today": 38,
+      "active_drivers_today": 176
+    },
+    "booking_metrics": {
+      "total_bookings_created": 582,
+      "rides_completed": 208,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6007.19,
+      "platform_revenue": 901.08,
+      "avg_payment_per_ride": 28.88
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 18.2,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2026-01-30",
+    "user_metrics": {
+      "total_users": 15767,
+      "new_users_today": 27,
+      "active_drivers_today": 170
+    },
+    "booking_metrics": {
+      "total_bookings_created": 560,
+      "rides_completed": 200,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6183.52,
+      "platform_revenue": 927.53,
+      "avg_payment_per_ride": 30.92
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.5,
+      "avg_negotiation_discount": "8%"
+    }
+  },
+  {
+    "_id": "2026-01-31",
+    "user_metrics": {
+      "total_users": 15784,
+      "new_users_today": 40,
+      "active_drivers_today": 181
+    },
+    "booking_metrics": {
+      "total_bookings_created": 596,
+      "rides_completed": 213,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6977.72,
+      "platform_revenue": 1046.66,
+      "avg_payment_per_ride": 32.76
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.5,
+      "avg_negotiation_discount": "15%"
+    }
+  },
+  {
+    "_id": "2026-02-01",
+    "user_metrics": {
+      "total_users": 15813,
+      "new_users_today": 26,
+      "active_drivers_today": 170
+    },
+    "booking_metrics": {
+      "total_bookings_created": 560,
+      "rides_completed": 200,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5870.83,
+      "platform_revenue": 880.62,
+      "avg_payment_per_ride": 29.35
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 18.5,
+      "avg_negotiation_discount": "14%"
+    }
+  },
+  {
+    "_id": "2026-02-02",
+    "user_metrics": {
+      "total_users": 15852,
+      "new_users_today": 32,
+      "active_drivers_today": 187
+    },
+    "booking_metrics": {
+      "total_bookings_created": 616,
+      "rides_completed": 220,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8757.3,
+      "platform_revenue": 1313.59,
+      "avg_payment_per_ride": 39.81
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.4,
+      "avg_negotiation_discount": "10%"
+    }
+  },
+  {
+    "_id": "2026-02-03",
+    "user_metrics": {
+      "total_users": 15881,
+      "new_users_today": 36,
+      "active_drivers_today": 181
+    },
+    "booking_metrics": {
+      "total_bookings_created": 596,
+      "rides_completed": 213,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6972.61,
+      "platform_revenue": 1045.89,
+      "avg_payment_per_ride": 32.74
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 15.4,
+      "avg_negotiation_discount": "10%"
+    }
+  },
+  {
+    "_id": "2026-02-04",
+    "user_metrics": {
+      "total_users": 15897,
+      "new_users_today": 15,
+      "active_drivers_today": 191
+    },
+    "booking_metrics": {
+      "total_bookings_created": 630,
+      "rides_completed": 225,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7648.99,
+      "platform_revenue": 1147.35,
+      "avg_payment_per_ride": 34.0
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 10.1,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2026-02-05",
+    "user_metrics": {
+      "total_users": 15933,
+      "new_users_today": 38,
+      "active_drivers_today": 187
+    },
+    "booking_metrics": {
+      "total_bookings_created": 616,
+      "rides_completed": 220,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8802.81,
+      "platform_revenue": 1320.42,
+      "avg_payment_per_ride": 40.01
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 10.1,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2026-02-06",
+    "user_metrics": {
+      "total_users": 15970,
+      "new_users_today": 17,
+      "active_drivers_today": 174
+    },
+    "booking_metrics": {
+      "total_bookings_created": 574,
+      "rides_completed": 205,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5990.02,
+      "platform_revenue": 898.5,
+      "avg_payment_per_ride": 29.22
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 17.8,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2026-02-07",
+    "user_metrics": {
+      "total_users": 15993,
+      "new_users_today": 36,
+      "active_drivers_today": 206
+    },
+    "booking_metrics": {
+      "total_bookings_created": 680,
+      "rides_completed": 243,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6730.66,
+      "platform_revenue": 1009.6,
+      "avg_payment_per_ride": 27.7
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 17.6,
+      "avg_negotiation_discount": "8%"
+    }
+  },
+  {
+    "_id": "2026-02-08",
+    "user_metrics": {
+      "total_users": 16013,
+      "new_users_today": 30,
+      "active_drivers_today": 181
+    },
+    "booking_metrics": {
+      "total_bookings_created": 596,
+      "rides_completed": 213,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8939.35,
+      "platform_revenue": 1340.9,
+      "avg_payment_per_ride": 41.97
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 10.8,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2026-02-09",
+    "user_metrics": {
+      "total_users": 16034,
+      "new_users_today": 25,
+      "active_drivers_today": 181
+    },
+    "booking_metrics": {
+      "total_bookings_created": 599,
+      "rides_completed": 214,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7193.4,
+      "platform_revenue": 1079.01,
+      "avg_payment_per_ride": 33.61
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 14.0,
+      "avg_negotiation_discount": "6%"
+    }
+  },
+  {
+    "_id": "2026-02-10",
+    "user_metrics": {
+      "total_users": 16073,
+      "new_users_today": 30,
+      "active_drivers_today": 204
+    },
+    "booking_metrics": {
+      "total_bookings_created": 672,
+      "rides_completed": 240,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 7158.72,
+      "platform_revenue": 1073.81,
+      "avg_payment_per_ride": 29.83
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 20.4,
+      "avg_negotiation_discount": "6%"
+    }
+  },
+  {
+    "_id": "2026-02-11",
+    "user_metrics": {
+      "total_users": 16101,
+      "new_users_today": 38,
+      "active_drivers_today": 184
+    },
+    "booking_metrics": {
+      "total_bookings_created": 607,
+      "rides_completed": 217,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5726.59,
+      "platform_revenue": 858.99,
+      "avg_payment_per_ride": 26.39
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 16.2,
+      "avg_negotiation_discount": "6%"
+    }
+  },
+  {
+    "_id": "2026-02-12",
+    "user_metrics": {
+      "total_users": 16117,
+      "new_users_today": 26,
+      "active_drivers_today": 187
+    },
+    "booking_metrics": {
+      "total_bookings_created": 618,
+      "rides_completed": 221,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6191.46,
+      "platform_revenue": 928.72,
+      "avg_payment_per_ride": 28.02
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 14.0,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2026-02-13",
+    "user_metrics": {
+      "total_users": 16132,
+      "new_users_today": 35,
+      "active_drivers_today": 178
+    },
+    "booking_metrics": {
+      "total_bookings_created": 588,
+      "rides_completed": 210,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4787.71,
+      "platform_revenue": 718.16,
+      "avg_payment_per_ride": 22.8
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 20.6,
+      "avg_negotiation_discount": "13%"
+    }
+  },
+  {
+    "_id": "2026-02-14",
+    "user_metrics": {
+      "total_users": 16169,
+      "new_users_today": 30,
+      "active_drivers_today": 188
+    },
+    "booking_metrics": {
+      "total_bookings_created": 621,
+      "rides_completed": 222,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6435.87,
+      "platform_revenue": 965.38,
+      "avg_payment_per_ride": 28.99
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 20.8,
+      "avg_negotiation_discount": "9%"
+    }
+  },
+  {
+    "_id": "2026-02-15",
+    "user_metrics": {
+      "total_users": 16195,
+      "new_users_today": 17,
+      "active_drivers_today": 192
+    },
+    "booking_metrics": {
+      "total_bookings_created": 635,
+      "rides_completed": 227,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6215.26,
+      "platform_revenue": 932.29,
+      "avg_payment_per_ride": 27.38
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 21.3,
+      "avg_negotiation_discount": "13%"
+    }
+  },
+  {
+    "_id": "2026-02-16",
+    "user_metrics": {
+      "total_users": 16234,
+      "new_users_today": 30,
+      "active_drivers_today": 197
+    },
+    "booking_metrics": {
+      "total_bookings_created": 649,
+      "rides_completed": 232,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8106.01,
+      "platform_revenue": 1215.9,
+      "avg_payment_per_ride": 34.94
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 20.7,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2026-02-17",
+    "user_metrics": {
+      "total_users": 16250,
+      "new_users_today": 29,
+      "active_drivers_today": 198
+    },
+    "booking_metrics": {
+      "total_bookings_created": 655,
+      "rides_completed": 234,
+      "cancellation_rate": "7%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6463.84,
+      "platform_revenue": 969.58,
+      "avg_payment_per_ride": 27.62
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 18.2,
+      "avg_negotiation_discount": "14%"
+    }
+  },
+  {
+    "_id": "2026-02-18",
+    "user_metrics": {
+      "total_users": 16270,
+      "new_users_today": 19,
+      "active_drivers_today": 169
+    },
+    "booking_metrics": {
+      "total_bookings_created": 557,
+      "rides_completed": 199,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4537.22,
+      "platform_revenue": 680.58,
+      "avg_payment_per_ride": 22.8
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.3,
+      "avg_negotiation_discount": "12%"
+    }
+  },
+  {
+    "_id": "2026-02-19",
+    "user_metrics": {
+      "total_users": 16301,
+      "new_users_today": 24,
+      "active_drivers_today": 180
+    },
+    "booking_metrics": {
+      "total_bookings_created": 593,
+      "rides_completed": 212,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 8001.78,
+      "platform_revenue": 1200.27,
+      "avg_payment_per_ride": 37.74
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 19.7,
+      "avg_negotiation_discount": "6%"
+    }
+  },
+  {
+    "_id": "2026-02-20",
+    "user_metrics": {
+      "total_users": 16335,
+      "new_users_today": 28,
+      "active_drivers_today": 182
+    },
+    "booking_metrics": {
+      "total_bookings_created": 602,
+      "rides_completed": 215,
+      "cancellation_rate": "6%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6602.98,
+      "platform_revenue": 990.45,
+      "avg_payment_per_ride": 30.71
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.3,
+      "avg_negotiation_discount": "6%"
+    }
+  },
+  {
+    "_id": "2026-02-21",
+    "user_metrics": {
+      "total_users": 16358,
+      "new_users_today": 31,
+      "active_drivers_today": 187
+    },
+    "booking_metrics": {
+      "total_bookings_created": 618,
+      "rides_completed": 221,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 4351.12,
+      "platform_revenue": 652.67,
+      "avg_payment_per_ride": 19.69
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 11.3,
+      "avg_negotiation_discount": "7%"
+    }
+  },
+  {
+    "_id": "2026-02-22",
+    "user_metrics": {
+      "total_users": 16390,
+      "new_users_today": 25,
+      "active_drivers_today": 168
+    },
+    "booking_metrics": {
+      "total_bookings_created": 554,
+      "rides_completed": 198,
+      "cancellation_rate": "2%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6374.1,
+      "platform_revenue": 956.12,
+      "avg_payment_per_ride": 32.19
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 14.6,
+      "avg_negotiation_discount": "11%"
+    }
+  },
+  {
+    "_id": "2026-02-23",
+    "user_metrics": {
+      "total_users": 16406,
+      "new_users_today": 16,
+      "active_drivers_today": 163
+    },
+    "booking_metrics": {
+      "total_bookings_created": 537,
+      "rides_completed": 192,
+      "cancellation_rate": "3%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 6286.02,
+      "platform_revenue": 942.9,
+      "avg_payment_per_ride": 32.74
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 21.6,
+      "avg_negotiation_discount": "6%"
+    }
+  },
+  {
+    "_id": "2026-02-24",
+    "user_metrics": {
+      "total_users": 16446,
+      "new_users_today": 39,
+      "active_drivers_today": 123
+    },
+    "booking_metrics": {
+      "total_bookings_created": 406,
+      "rides_completed": 145,
+      "cancellation_rate": "4%",
+      "seat_occupancy_rate": "98%"
+    },
+    "financial_metrics": {
+      "gross_merchandise_value": 5136.57,
+      "platform_revenue": 770.49,
+      "avg_payment_per_ride": 35.42
+    },
+    "efficiency_metrics": {
+      "avg_time_to_be_booked_mins": 13.4,
+      "avg_negotiation_discount": "11%"
+    }
+  }
+]
